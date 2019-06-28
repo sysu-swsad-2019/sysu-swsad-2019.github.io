@@ -24,7 +24,7 @@
 - 8、生产规范与指南
   - 8.1 [代码规范(待补充)]()
   - 8.2 [API 设计规范](https://github.com/sysu-swsad-2019/Document/blob/master/RESTful%20API%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.md)
-  - 8.3 [部署说明(待补充)]()
+  - 8.3 [部署与使用说明](https://github.com/sysu-swsad-2019/Document/blob/master/%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 - 9、成品展示
   - 9.1 [一起挣闲钱项目成品视频(待补充)]()
 - X1 meet_recording
