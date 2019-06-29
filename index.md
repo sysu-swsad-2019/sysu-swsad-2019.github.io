@@ -1,4 +1,4 @@
-## 一起挣闲钱分析与设计
+## 一起挣闲钱分析与设计([项目地址](https://github.com/sysu-swsad-2019))
 
 ## 项目文档目录
 - 1、[About](https://github.com/sysu-swsad-2019/Document/blob/master/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE.md)(项目概况)
@@ -8,13 +8,12 @@
 - 5、[Product Backlog](https://github.com/sysu-swsad-2019/Document/blob/master/img/%E4%BA%A7%E5%93%81%E7%89%B9%E6%80%A7%E5%BA%93.PNG)(产品特性库)
 - 6、Requirement specification(需求规格说明)
   - 6.1 [Usecase Diagram](https://github.com/sysu-swsad-2019/Document/blob/master/img/%E7%94%A8%E4%BE%8B%E5%9B%BE.jpg) and [UML Activity Diagram](https://github.com/sysu-swsad-2019/Document/blob/master/img/%E6%B3%B3%E9%81%93%E5%9B%BE.PNG)(用例图，业务过程/多泳道)
-  - 6.2 [Use Cases]()（用例+活动图(待补充)）
-  - 6.3 [Domian Models]()（领域模型(待补充)）
-  - 6.4 [State Models]()（状态模型(待补充)）
-  - 6.5 [System Sequence Diagrams]()（功能模型(待补充)）
-  - 6.6 PRD(产品需求说明书)
-    - 6.6.1 [V1.0 PRD](https://github.com/sysu-swsad-2019/Document/blob/master/%E6%8C%A3%E9%97%B2%E9%92%B1v1.0%E9%A1%B9%E7%9B%AE%E8%A7%84%E5%88%92%E5%8F%8A%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E.pdf)
-    - 6.6.2 [V2.0 PRD](https://github.com/sysu-swsad-2019/Document/blob/master/%E6%8C%A3%E9%97%B2%E9%92%B1v2.0%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E.pdf)
+  - 6.2 [Domian Models]()（领域模型(待补充)）
+  - 6.3 [State Models]()（状态模型(待补充)）
+  - 6.4 [System Sequence Diagrams]()（功能模型(待补充)）
+  - 6.5 PRD(产品需求说明书)
+    - 6.5.1 [V1.0 PRD](https://github.com/sysu-swsad-2019/Document/blob/master/%E6%8C%A3%E9%97%B2%E9%92%B1v1.0%E9%A1%B9%E7%9B%AE%E8%A7%84%E5%88%92%E5%8F%8A%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E.pdf)
+    - 6.5.2 [V2.0 PRD](https://github.com/sysu-swsad-2019/Document/blob/master/%E6%8C%A3%E9%97%B2%E9%92%B1v2.0%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E.pdf)
 - 7、[Design](https://github.com/sysu-swsad-2019/Document/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)（设计说明书）
   - 7.1 UI design]（界面设计）
   - 7.2 Database design（数据库设计）
