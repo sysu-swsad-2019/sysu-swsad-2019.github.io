@@ -8,7 +8,7 @@
 - 5、[Product Backlog](https://github.com/sysu-swsad-2019/Document/blob/master/img/%E4%BA%A7%E5%93%81%E7%89%B9%E6%80%A7%E5%BA%93.PNG)(产品特性库)
 - 6、Requirement specification(需求规格说明)
   - 6.1 [Usecase Diagram](https://github.com/sysu-swsad-2019/Document/blob/master/img/%E7%94%A8%E4%BE%8B%E5%9B%BE.jpg) and [UML Activity Diagram](https://github.com/sysu-swsad-2019/Document/blob/master/img/%E6%B3%B3%E9%81%93%E5%9B%BE.PNG)(用例图，业务过程/多泳道)
-  - 6.2 [Domian Models]()（领域模型(待补充)）
+  - 6.2 [Domian Models](https://github.com/sysu-swsad-2019/Document/blob/master/img/domain.PNG)（领域模型）
   - 6.3 [State Models]()（状态模型(待补充)）
   - 6.4 [System Sequence Diagrams]()（功能模型(待补充)）
   - 6.5 PRD(产品需求说明书)
@@ -21,7 +21,7 @@
   - 7.4 Architecture design（架构设计）
   - 7.5 Usecase design（用例设计）
 - 8、生产规范与指南
-  - 8.1 [代码规范(待补充)]()
+  - 8.1 [代码规范](https://github.com/sysu-swsad-2019/Document/blob/master/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
   - 8.2 [API 设计规范](https://github.com/sysu-swsad-2019/Document/blob/master/RESTful%20API%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.md)
   - 8.3 [部署与使用说明](https://github.com/sysu-swsad-2019/Document/blob/master/%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 - 9、成品展示
