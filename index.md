@@ -15,7 +15,7 @@
     - 6.5.1 [V1.0 PRD](https://github.com/sysu-swsad-2019/Document/blob/master/%E6%8C%A3%E9%97%B2%E9%92%B1v1.0%E9%A1%B9%E7%9B%AE%E8%A7%84%E5%88%92%E5%8F%8A%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E.pdf)
     - 6.5.2 [V2.0 PRD](https://github.com/sysu-swsad-2019/Document/blob/master/%E6%8C%A3%E9%97%B2%E9%92%B1v2.0%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E.pdf)
 - 7、[Design](https://github.com/sysu-swsad-2019/Document/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)（设计说明书）
-  - 7.1 UI design]（界面设计）
+  - 7.1 [UI design](https://github.com/sysu-swsad-2019/SWSAD/tree/master/uidesign)（界面设计）
   - 7.2 Database design（数据库设计）
   - 7.3 Interface API design（接口 API 设计）
   - 7.4 Architecture design（架构设计）
